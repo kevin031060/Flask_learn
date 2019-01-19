@@ -12,6 +12,8 @@ deactivate
 
 source venv/bin/activate
 
+pip install flask
+或者 pip install -e .
 
 Flask 启动
 
